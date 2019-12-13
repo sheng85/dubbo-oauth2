@@ -1,0 +1,2 @@
+qsqya.dubbo.oauth2.consumer.filter=com.qsqya.dubbo.extension.oauth2.ConsumerFilter
+qsqya.dubbo.oauth2.provider.filter=com.qsqya.dubbo.extension.oauth2.ProviderFilter
